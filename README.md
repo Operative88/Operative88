@@ -2,9 +2,6 @@
 
 I am mainly interested in cloud computing, DevOps and automation. In my free time I develop spintronics visualization software.
 
-![Profile Views](https://komarev.com/ghpvc/?username=Operative88&style=for-the-badge&color=blue)
-
-
 ## 🛠️ Technical Ecosystem
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
