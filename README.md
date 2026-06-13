@@ -2,10 +2,10 @@
 
 I am mainly interested in cloud computing, DevOps and automation. In my free time I develop spintronics visualization software.
 
-![Profile Views](https://komarev.com/ghpvc/?username=your-username&style=for-the-badge&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=Operative88&style=for-the-badge&color=blue)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Operative88&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Operative88&layout=compact&theme=tokyonight)
 
 ## 🛠️ Technical Ecosystem
 ### Languages
