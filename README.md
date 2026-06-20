@@ -2,7 +2,7 @@
 
 I am mainly interested in cloud computing, DevOps and Test Automation. In my free time, I develop spintronics visualization software and design an embedded systems-based electronic device for non-invasive vagus nerve stimulation.
 
-## 🛠️ Technical Ecosystem
+## Technical Ecosystem
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
