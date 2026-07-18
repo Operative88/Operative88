@@ -3,6 +3,6 @@ I am mainly interested in Cloud Computing, DevOps and Neuromodulation. Combining
 
 ### Links
 
-- Personal website: [operative88.github.io](https://operative88.github.io)
+- Personal website: [operative88.dev](https://operative88.dev)
 - LinkedIn: [Wojciech Kocemba](https://www.linkedin.com/in/wkocemba21)
-- Reach out to me if you have any out-of-the-box ideas regarding Embedded Systems and Neuromodulation: [wojciechkocemba21(at)gmail.com](wojciechkocemba21(at)gmail.com)
+- Reach out to me if you have any out-of-the-box ideas regarding Neuromodulation: [wojciechkocemba21(at)gmail.com]https://operative88.dev(wojciechkocemba21(at)gmail.com)
