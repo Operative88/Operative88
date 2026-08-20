@@ -21,8 +21,7 @@ def fetch_recent_repos():
         name = repo["name"]
         link = repo["html_url"]
         desc = repo.get("description") or "brak opisu"
-        stars = repo["stargazers_count"]
-        lines.append(f"- [{name}]({link}) — {desc} ⭐ {stars}")
+        lines.append(f"- [{name}]({link}) — {desc}")
     return "\n".join(lines)
 
 def update_readme(content):
