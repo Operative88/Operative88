@@ -11,9 +11,9 @@ I am mainly interested in Cloud Computing, DevOps and Neuromodulation. Combining
 #### Latest activity
 
 <!--START_SECTION:activity-->
-- [Operative88](https://github.com/Operative88/Operative88) — brak opisu ⭐ 0
-- [log-archive](https://github.com/Operative88/log-archive) — brak opisu ⭐ 0
-- [server-performance](https://github.com/Operative88/server-performance) — brak opisu ⭐ 0
-- [Linux-server-on-AWS-EC2](https://github.com/Operative88/Linux-server-on-AWS-EC2) — Deployment of static website on EC2 instance with simple CI/CD pipeline (AWS  CodeBuild) ⭐ 0
-- [Dockerfile](https://github.com/Operative88/Dockerfile) — basic Dockerfile to create a Docker image ⭐ 0
+- [Linux-server-on-AWS-EC2](https://github.com/Operative88/Linux-server-on-AWS-EC2) — Deployment of static website on EC2 instance with simple CI/CD pipeline (AWS  CodeBuild)
+- [Operative88](https://github.com/Operative88/Operative88) — brak opisu
+- [log-archive](https://github.com/Operative88/log-archive) — brak opisu
+- [server-performance](https://github.com/Operative88/server-performance) — brak opisu
+- [Dockerfile](https://github.com/Operative88/Dockerfile) — basic Dockerfile to create a Docker image
 <!--END_SECTION:activity-->
