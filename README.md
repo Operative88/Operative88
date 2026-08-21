@@ -11,9 +11,9 @@ I am mainly interested in Cloud Computing, DevOps and Neuromodulation. Combining
 #### Latest activity
 
 <!--START_SECTION:activity-->
+- [IaC-DigitalOcean](https://github.com/Operative88/IaC-DigitalOcean) <<< Terraform code to create a Droplet on DigitalOcean
+- [Linux-EC2](https://github.com/Operative88/Linux-EC2) <<< Deployment of static website on EC2 instance with simple CI/CD pipeline (AWS  CodeBuild)
 - [Operative88](https://github.com/Operative88/Operative88) <<< brak opisu
-- [IaC-on-DigitalOcean](https://github.com/Operative88/IaC-on-DigitalOcean) <<< Terraform code to create a Droplet on DigitalOcean
 - [Continuous-Architecture](https://github.com/Operative88/Continuous-Architecture) <<< brak opisu
 - [server-performance](https://github.com/Operative88/server-performance) <<< script to analyse basic server performance stats
-- [log-archive](https://github.com/Operative88/log-archive) <<< tool to archive logs on a set schedule by compressing them and storing them in a new directory
 <!--END_SECTION:activity-->
